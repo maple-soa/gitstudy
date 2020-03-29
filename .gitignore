@@ -10,7 +10,6 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-<<<<<<< HEAD
 # IDEA配置文件
 .idea/
 *.iml
